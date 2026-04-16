@@ -10,3 +10,10 @@ gunicorn
 openpyxl
 seaborn
 matplotlib
+dash
+pandas
+numpy
+scikit-learn
+joblib
+xgboost
+gunicorn
